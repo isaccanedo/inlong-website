@@ -1,0 +1,36 @@
+.inlong-button {
+  display: inline-block;
+  height: 48px;
+  line-height: 48px;
+  min-width: 140px;
+  font-size: 16px;
+  text-align: center;
+  border-radius: 4px;
+  text-decoration: none;
+  border: 1px solid;
+  transition: all .3s;
+
+  &:hover {
+    text-decoration: none;
+  }
+
+  &-primary {
+    color: #FFF;
+    background: var(--ifm-color-primary);
+    border-color: var(--ifm-color-primary);
+    &:hover {
+      color: #fff;
+      background: var(--ifm-color-primary-lighter);
+    }
+  }
+
+  &-ghost {
+    color: var(--ifm-color-primary);
+    background: transparent;
+    border-color: var(--ifm-color-primary);
+    &:hover {
+      color: var(--ifm-color-primary-lighter);
+      border-color: var(--ifm-color-primary-lighter);
+    }
+  }
+}
