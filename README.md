@@ -1,6 +1,6 @@
 # InLong Official Website
 
-This project keeps all sources used for building up InLong official website which's served at 
+Este projeto mantém todas as fontes usadas para construir o site oficial do InLong, que é servido em
 https://inlong.apache.org/
 
 ## Prerequisite
