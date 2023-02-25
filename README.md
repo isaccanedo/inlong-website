@@ -3,11 +3,11 @@
 Este projeto mantém todas as fontes usadas para construir o site oficial do InLong, que é servido em
 https://inlong.apache.org/
 
-## Prerequisite
+## Pré-requisito
 
-InLong website is powered by [Docusaurus](https://docusaurus.io/).
-If your version of Docusaurus is less than `2.0.0`,please upgrade to `2.0.0`.
-Please also make sure your node version is 14.x, versions higher than 14.x is not supported by Docusaurus yet.
+O site Inlong é alimentado por [Docusaurus] (https://docinaurus.io/).
+Se a sua versão do docusaurus for menor que `2.0.0`, atualize para` 2.0.0`.
+Verifique também que a versão do seu nó é 14.x, versões superiores a 14.x ainda não são suportadas pelo Docusaurus.
 
 ## Build instruction 
 
