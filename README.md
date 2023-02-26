@@ -9,13 +9,13 @@ O site Inlong é alimentado por [Docusaurus] (https://docinaurus.io/).
 Se a sua versão do docusaurus for menor que `2.0.0`, atualize para` 2.0.0`.
 Verifique também que a versão do seu nó é 14.x, versões superiores a 14.x ainda não são suportadas pelo Docusaurus.
 
-## Build instruction 
+## Instrução de construção
 
 1. Run `npm i` in the root directory to install the dependencies.
 2. Run `npm start` in the root directory to start a local server, you will see the website in 'http://127.0.0.1:3000'.
 3. Run `npm run build` to build source code.
 
-If you have higher version of node installed, you may consider `nvm` to allow different versions of `node` coexisting on your machine.
+Se você tiver uma versão superior do node instalada, considere `nvm` para permitir que diferentes versões do `node` coexistam em sua máquina.
 
 1. Follow the [instructions](http://nvm.sh) to install nvm
 2. Run `nvm install v14.13.0` to install node v14
