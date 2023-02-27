@@ -21,7 +21,7 @@ Se você tiver uma versão superior do node instalada, considere `nvm` para perm
 2. Run `nvm install v14.13.0` to install node v14
 3. Run `nvm use v14.13.0` to switch the working environment to node v14
 
-Then you are all set to run and build the website. Follow the build instruction above for the details.
+Então você está pronto para executar e construir o site. Siga as instruções de compilação acima para os detalhes.
 
 ## How to send a PR
 
