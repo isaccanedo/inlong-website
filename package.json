@@ -1,0 +1,50 @@
+{
+  "name": "docs-website",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start",
+    "start-zh": "docusaurus start --locale zh-CN",
+    "build": "docusaurus build",
+    "sync-team": "node ./scripts/sync-team.js",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "clear": "docusaurus clear",
+    "serve": "docusaurus serve",
+    "write-translations": "docusaurus write-translations --locale zh-CN",
+    "write-heading-ids": "docusaurus write-heading-ids"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^2.2.0",
+    "@docusaurus/plugin-content-docs": "^2.2.0",
+    "@docusaurus/preset-classic": "2.2.0",
+    "@mdx-js/react": "^1.6.21",
+    "@svgr/webpack": "^5.5.0",
+    "acorn": "^8.6.0",
+    "axios": "^0.21.4",
+    "clsx": "^1.1.1",
+    "file-loader": "^6.2.0",
+    "prism-react-renderer": "^1.2.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "url-loader": "^4.1.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "docusaurus-plugin-less": "^2.0.1",
+    "less": "^4.1.1",
+    "less-loader": "^10.0.1"
+  }
+}

@@ -17,7 +17,7 @@ Verifique também que a versão do seu nó é 14.x, versões superiores a 14.x a
 
 Se você tiver uma versão superior do node instalada, considere `nvm` para permitir que diferentes versões do `node` coexistam em sua máquina.
 
-1. Follow the [instructions](http://nvm.sh) to install nvm
+1. Siga as [instruções](http://nvm.sh) para instalar o nvm
 2. Run `nvm install v14.13.0` to install node v14
 3. Run `nvm use v14.13.0` to switch the working environment to node v14
 
