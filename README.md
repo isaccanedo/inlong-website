@@ -12,8 +12,8 @@ Verifique também que a versão do seu nó é 14.x, versões superiores a 14.x a
 ## Instrução de construção
 
 1. Run `npm i` no diretório raiz para instalar as dependências.
-2. Run `npm start` in the root directory to start a local server, you will see the website in 'http://127.0.0.1:3000'.
-3. Run `npm run build` to build source code.
+2. Run `npm start` no diretório raiz para iniciar um servidor local, você verá o site em 'http://127.0.0.1:3000'.
+3. Run `npm run build` para construir o código-fonte.
 
 Se você tiver uma versão superior do node instalada, considere `nvm` para permitir que diferentes versões do `node` coexistam em sua máquina.
 
