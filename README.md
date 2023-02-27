@@ -23,7 +23,7 @@ Se você tiver uma versão superior do node instalada, considere `nvm` para perm
 
 Então você está pronto para executar e construir o site. Siga as instruções de compilação acima para os detalhes.
 
-## How to send a PR
+## Como enviar um PR
 
 Make sure you have submit issue for tracking PR: [https://github.com/apache/inlong/issues](https://github.com/apache/inlong/issues)
 
