@@ -34,7 +34,7 @@ Verifique se você enviou o problema para rastrear o PR: [https://github.com/apa
 3. Envie um PR para a filial **mestre**.
 
 
-## Guide for adding new document
+## Guia para adicionar um novo documento
 
 ### Add a new article for docs
 
