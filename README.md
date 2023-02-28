@@ -43,7 +43,7 @@ Verifique se você enviou o problema para rastrear o PR: [https://github.com/apa
 3. Send the pull request contains the *.md and development.js only.
 
 
-### Add a new version for documents
+### Adicionar uma nova versão para documentos
 
 1. Modify the document in `docs`, then run `npm run docusaurus docs:version replace_by_target_version` locally to copy a document.
 2. Add a label to DOC's item in `docusaurus.config.js` file.
