@@ -28,7 +28,7 @@ Então você está pronto para executar e construir o site. Siga as instruções
 Verifique se você enviou o problema para rastrear o PR: [https://github.com/apache/inlong/issues](https://github.com/apache/inlong/issues)
 
 1. Não use `git add .` para confirmar todas as alterações.
-2. Just push your changed files, such as:
+2. Basta enviar seus arquivos alterados, como:
     * `*.md`
 	* blog.js or docs.js or site.js
 3. Send a PR to **master** branch.
