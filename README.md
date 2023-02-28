@@ -36,7 +36,7 @@ Verifique se você enviou o problema para rastrear o PR: [https://github.com/apa
 
 ## Guia para adicionar um novo documento
 
-### Add a new article for docs
+### Adicionar um novo artigo para documentos
 
 1. Add new .md file under `docs` or `i18n`.
 2. Run dev server locally to verify the article can be displayed correctly.
