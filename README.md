@@ -25,7 +25,7 @@ Então você está pronto para executar e construir o site. Siga as instruções
 
 ## Como enviar um PR
 
-Make sure you have submit issue for tracking PR: [https://github.com/apache/inlong/issues](https://github.com/apache/inlong/issues)
+Verifique se você enviou o problema para rastrear o PR: [https://github.com/apache/inlong/issues](https://github.com/apache/inlong/issues)
 
 1. Do not use `git add .` to commit all the changes.
 2. Just push your changed files, such as:
