@@ -31,7 +31,7 @@ Verifique se você enviou o problema para rastrear o PR: [https://github.com/apa
 2. Basta enviar seus arquivos alterados, como:
     * `*.md`
 	* blog.js or docs.js or site.js
-3. Send a PR to **master** branch.
+3. Envie um PR para a filial **mestre**.
 
 
 ## Guide for adding new document
