@@ -45,6 +45,6 @@ Verifique se você enviou o problema para rastrear o PR: [https://github.com/apa
 
 ### Adicionar uma nova versão para documentos
 
-1. Modify the document in `docs`, then run `npm run docusaurus docs:version replace_by_target_version` locally to copy a document.
+1. Modifique o documento em `docs` e execute `npm run docusaurus docs:version replace_by_target_version` localmente para copiar um documento.
 2. Add a label to DOC's item in `docusaurus.config.js` file.
 3. Modify the last table version in `/src/pages/version/index.js`.
