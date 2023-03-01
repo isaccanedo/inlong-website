@@ -38,8 +38,8 @@ Verifique se você enviou o problema para rastrear o PR: [https://github.com/apa
 
 ### Adicionar um novo artigo para documentos
 
-1. Add new .md file under `docs` or `i18n`.
-2. Run dev server locally to verify the article can be displayed correctly.
+1. Adicione um novo arquivo .md em `docs` ou `i18n`.
+2. Execute o servidor dev localmente para verificar se o artigo pode ser exibido corretamente.
 3. Send the pull request contains the *.md and development.js only.
 
 
