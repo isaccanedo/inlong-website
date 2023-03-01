@@ -47,4 +47,4 @@ Verifique se você enviou o problema para rastrear o PR: [https://github.com/apa
 
 1. Modifique o documento em `docs` e execute `npm run docusaurus docs:version replace_by_target_version` localmente para copiar um documento.
 2. Adicione um rótulo ao item do DOC no arquivo `docusaurus.config.js`.
-3. Modify the last table version in `/src/pages/version/index.js`.
+3. Modifique a última versão da tabela em `/src/pages/version/index.js`.
