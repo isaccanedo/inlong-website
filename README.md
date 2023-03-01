@@ -40,7 +40,7 @@ Verifique se você enviou o problema para rastrear o PR: [https://github.com/apa
 
 1. Adicione um novo arquivo .md em `docs` ou `i18n`.
 2. Execute o servidor dev localmente para verificar se o artigo pode ser exibido corretamente.
-3. Send the pull request contains the *.md and development.js only.
+3. Envie a solicitação pull contendo apenas *.md e development.js.
 
 
 ### Adicionar uma nova versão para documentos
